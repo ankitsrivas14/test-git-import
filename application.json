@@ -1,0 +1,37 @@
+{
+  "pages": [
+    {
+      "id": "Send Messages",
+      "isDefault": false
+    },
+    {
+      "id": "Customer Data",
+      "isDefault": false
+    },
+    {
+      "id": "Investors",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#EAEDFB",
+  "icon": "diamond",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
